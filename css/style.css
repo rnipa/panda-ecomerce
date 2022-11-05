@@ -17,3 +17,36 @@
     border-radius: 8px;
     color: #fff;
 }
+.category {
+    margin: 70px 0;
+ 
+    color: #fff;
+}
+.watch {
+    background: linear-gradient(to right, #c78201 0%, orange 100%);
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+
+.bag {
+    background: linear-gradient(to right, purple 0%, orchid 100%);
+    border-radius: 15px 20px;
+    padding: 15px;
+}
+
+.shoes {
+    background: linear-gradient(to right, darkblue 0%, blue 100%);
+    padding: 15px 20px;
+    border-radius: 10px;
+}
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightslategray;
+}
+#shoes {
+    margin: 50px 0;
+}
+#subscribe {
+    margin: 50px 0;
+    height: 300px;
+}
